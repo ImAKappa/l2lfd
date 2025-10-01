@@ -1,0 +1,4 @@
+# Variogram
+
+## Semivariogram
+
