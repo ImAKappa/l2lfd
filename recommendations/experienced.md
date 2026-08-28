@@ -21,4 +21,6 @@ I feel confident saying I finally understood degrees of freedom after watching t
 
 🧪 [Bayesian Workflow - Gelman et al. 2020](https://arxiv.org/pdf/2011.01808)
 
-🧪 [Connecting Simple and Precise P-values to Complex and Ambiguous Realities - Greenland, 2023](https://arxiv.org/pdf/2304.01392)
+🧪 [Connecting Simple and Precise P-values to Complex and Ambiguous Realities - Greenland, 2023](https://arxiv.org/abs/2304.01392)
+
+🧪 [Statistical methods: Basic concepts, interpretations, and cautions](https://arxiv.org/abs/2508.10168)
