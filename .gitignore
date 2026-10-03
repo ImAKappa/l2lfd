@@ -1,0 +1,17 @@
+# uv virtual environment
+.venv/
+
+# Python build and cache artifacts
+__pycache__/
+*.py[cod]
+$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Optional: Environment variables
+.env
+
+# uv lockfile (See rule below)
+uv.lock
