@@ -7,6 +7,10 @@
 During training, cross-entropy or MSE.
 After training, classification error
 
+[Evaluation metrics and statistical tests for machine learning (Rainio, Teuho, & Klen 2024)](https://www.nature.com/articles/s41598-024-56706-x)
+
+
+
 ## What are properties of good metrics?
 
 ## What metrics should I use for hyperparameter tuning?
